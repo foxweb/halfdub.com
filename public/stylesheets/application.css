@@ -7,17 +7,17 @@ body {
     height:100%;
 }
 
-h1 {
+#intro a:link, #intro a:visited {
 	font-family: 'Gochi Hand', cursive;
 	font-size:28pt;
 	color: #fff;
 	font-weight: normal;
 	text-align: center;
+	text-decoration: none;
 }
 
-h1:hover {
+#intro a:hover {
 	color: #999;
-	cursor: default;
 }
 
 #intro {
